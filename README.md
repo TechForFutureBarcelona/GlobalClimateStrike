@@ -26,6 +26,10 @@ We will join the protests organised by Fridays for Future Barcelona.
 - [Port Vell](https://act.350.org/event/globalclimatestrike/18202) starting at 12:00
 - [Jardinets de Gràcia](https://m.facebook.com/story.php?story_fbid=492776877953307&id=394650514432611) starting at 18:00
 
+## Are there any rules?
+
+- This will be a peaceful non-violent protest to show our support for the school strike movement.
+
 ## How can I get involved?
 
 - Follow [@TechForFutureBCN](https://twitter.com/tech4futurebcn) on Twitter for updates.
@@ -58,6 +62,10 @@ Nos uniremos a las protestas organizadas por Fridays for Future Barcelona.
 - [Port Vell](https://act.350.org/event/globalclimatestrike/18202) a las 12:00
 - [Jardinets de Gràcia](https://m.facebook.com/story.php?story_fbid=492776877953307&id=394650514432611) a las 18:00
 
+## Hay reglas?
+
+- Esta será una protesta pacífica, no violenta para mostrar apoyo al movimiento de huelga estudiantil. 
+
 ## Cómo puedo participar?
 
 - Sigue a [@TechForFutureBCN(https://twitter.com/tech4futurebcn) en Twitter para saber las novedades. 
@@ -89,6 +97,10 @@ Ens unirem a les protestes organitzades per Fridays for Future Barcelona.
 
 - [Port Vell](https://act.350.org/event/globalclimatestrike/18202) a les 12:00
 - [Jardinets de Gràcia](https://m.facebook.com/story.php?story_fbid=492776877953307&id=394650514432611) a les 18:00
+
+## Hi ha regles?
+
+Aquesta serà una protesta pacífica, no violenta per mostrar suport al moviment de vaga estudiantil.
 
 ## Com puc participar?
 
