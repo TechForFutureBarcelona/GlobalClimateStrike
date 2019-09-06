@@ -14,7 +14,7 @@ The tech industry is one of the industries having a major impact on the climate 
 
 ### Friday 20th September
 
-- We will meet in Parc Central de Poblenou between 13:00 and 15:00.
+- We will meet in Parc Central de Poblenou between 13:00 and 15:00
 
 If you want to meet at other locations in Barcelona get in touch.
 
@@ -78,7 +78,6 @@ El sector tecnològic és una de les indústries que té un major impacte en la 
 
 ### Divendres 20 de Setembre
 
-- Ens trobarem al Parc Central de Poblenou entre les 13:00 i 15:00.
 
 Si vols que ens trobem en altres llocs de Barcelona, posa't en contacte amb nosaltres.
 
