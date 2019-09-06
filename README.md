@@ -25,14 +25,13 @@ We will join the protests organised by Fridays for Future Barcelona.
 
 ## How can I get involved?
 
-- Follow [@TechForFutureBCN](https://twitter.com/tech_bcn) on Twitter for updates.
+- Follow [@TechForFutureBCN](https://twitter.com/tech4futurebcn) on Twitter for updates.
 - Sign up for the [27th September strike](https://m.facebook.com/story.php?story_fbid=492776877953307&id=394650514432611).
 - Sign the [Tech Worker Climate Pledge](https://pledge.climateaction.tech/) from ClimateAction.tech.
 - Join the [ClimateAction.tech](https://climateaction.tech/) Slack where we are organising in the #local-spain channel. 
 
-
 ### References
 
-[1] ["Tsunami of data" could consume one fifth of global electricity by 2025](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025) - Guardian
-[2] [The planet needs a new internet](https://earther.gizmodo.com/the-planet-needs-a-new-internet-1837101745) - Gizmodo
+- [1] ["Tsunami of data" could consume one fifth of global electricity by 2025](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025) - Guardian
+- [2] [The planet needs a new internet](https://earther.gizmodo.com/the-planet-needs-a-new-internet-1837101745) - Gizmodo
 
