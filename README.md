@@ -33,7 +33,7 @@ We will join the protests organised by Fridays for Future Barcelona.
 ## How can I get involved?
 
 - Follow [@TechForFutureBCN](https://twitter.com/tech4futurebcn) on Twitter for updates.
-- Sign up for the [27th September strike](https://m.facebook.com/story.php?story_fbid=492776877953307&id=394650514432611).
+- Sign up for the [27th September strike](https://act.350.org/event/globalclimatestrike/18202).
 - Sign the [Tech Worker Climate Pledge](https://pledge.climateaction.tech/) from ClimateAction.tech.
 - Join the [ClimateAction.tech](https://climateaction.tech/) Slack where we are organising in the `#local-spain` channel. 
 
