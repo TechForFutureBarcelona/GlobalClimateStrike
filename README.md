@@ -1,6 +1,4 @@
-# Global Climate Strike 20th / 27th Sep 2019
-
-## Open Letter to Tech Workers in Barcelona 
+# Open Letter to Tech Workers in Barcelona 
 
 ## What is happening?
 
@@ -8,7 +6,7 @@ We are a group of tech workers in Barcelona that want to take part in the [#Glob
 
 ## Why?
 
-The tech industry is one of the industries having a major impact on the climate crisis. The data centers that power the apps and websites we use are currently responsible for about 2% of global greenhouse gas emissions, making its emissions on par with the aviation industry and even projected to exceed it in 2020 [1][2].
+The tech industry is one of the industries having a major impact on the climate crisis. The data centers that power the apps and websites we use are currently responsible for about 2% of global greenhouse gas emissions, making its emissions on par with the aviation industry and even projected to exceed it in 2020 [1][1] [2][2]
 
 ## Where and when?
 
