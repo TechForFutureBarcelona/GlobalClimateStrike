@@ -71,7 +71,7 @@ Nos uniremos a las protestas organizadas por Fridays for Future Barcelona.
 - Sigue a [@TechForFutureBCN](https://twitter.com/tech4futurebcn) en Twitter para saber las novedades. 
 - Inscríbete en la huelga del [27 de Septiembre](https://act.350.org/event/globalclimatestrike/18202)
 - Firma el [Compromiso climático para trabajadores tecnológicos](https://pledge.climateaction.tech/) de ClimateAction.tech 
-- Unéte a [ClimateAction.tech Slack](https://climateaction.tech/), al canal `#local-spain`.
+- Unéte a [ClimateAction.tech Slack](https://climateaction.tech/) al canal `#local-spain`.
 
 # Carta oberta a treballadors tecnològics en Barcelona
 
@@ -79,11 +79,11 @@ Nos uniremos a las protestas organizadas por Fridays for Future Barcelona.
 
 Som un grup de treballadors tecnològics a Barcelona que volem participar en el [GlobalClimateStrike](https://globalclimatestrike.net) entre el 20 i el 27 de setembre. Volem mostrar el nostre suport als [Fridays for Future Barcelona](https://twitter.com/f4f_barcelona) i al moviment de vaga escolar. També volem reconèixer el paper exercit per la indústria tecnològica a la crisi climàtica i demostrar que estem compromesos a trobar solucions.
 
-## Per qué?
+## Per què?
 
 El sector tecnològic és una de les indústries que té un major impacte en la crisi climàtica. Els centres de dades que alimenten les aplicacions i els llocs web que fem servir actualment són responsables d'aproximadament el 2% de les emissions globals de gasos d'efecte hivernacle, el que fa que les seves emissions siguin iguals a la indústria de l'aviació i fins i tot es projecta que la superin el 2020 [1](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025) [2](https://earther.gizmodo.com/the-planet-needs-a-new-internet-1837101745).
 
-## A on i quand?
+## On i Quan?
 
 ### Divendres 20 de Setembre
 
