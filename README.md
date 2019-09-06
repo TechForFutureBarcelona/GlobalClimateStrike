@@ -9,7 +9,7 @@ We are a group of tech workers in Barcelona that want to take part in the [#Glob
 
 ## Why?
 
-The tech industry is one of the industries having a major impact on the climate crisis. The data centers that power the apps and websites we use are currently responsible for about 2% of global greenhouse gas emissions, making its emissions on par with the aviation industry and even projected to exceed it in 2020 [1] [2].
+The tech industry is one of the industries having a major impact on the climate crisis. The data centers that power the apps and websites we use are currently responsible for about 2% of global greenhouse gas emissions, making its emissions on par with the aviation industry and even projected to exceed it in 2020 [1](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025) [2](https://earther.gizmodo.com/the-planet-needs-a-new-internet-1837101745).
 
 ## Where and when?
 
@@ -41,7 +41,7 @@ Somos un grupo de trabajadorxs tecnológicxs en Barcelona que queremos participa
 
 ## Por qué?
 
-El sector tecnológico es una de las industrias que tiene un mayor impacto en la crisis climática. Los centros de datos que alimentan las aplicaciones y los sitios web que usamos actualmente son responsables de aproximadamente el 2% de las emisiones globales de gases de efecto invernadero, lo que hace que sus emisiones sean iguales a la industria de la aviación e incluso se proyecta que la superen en 2020 [1] [2].
+El sector tecnológico es una de las industrias que tiene un mayor impacto en la crisis climática. Los centros de datos que alimentan las aplicaciones y los sitios web que usamos actualmente son responsables de aproximadamente el 2% de las emisiones globales de gases de efecto invernadero, lo que hace que sus emisiones sean iguales a la industria de la aviación e incluso se proyecta que la superen en 2020 [1](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025) [2](https://earther.gizmodo.com/the-planet-needs-a-new-internet-1837101745).
 
 ## Dónde y cuándo?
 
@@ -73,7 +73,7 @@ Som un grup de treballadors tecnològics a Barcelona que volem participar en el 
 
 ## Per qué?
 
-El sector tecnològic és una de les indústries que té un major impacte en la crisi climàtica. Els centres de dades que alimenten les aplicacions i els llocs web que fem servir actualment són responsables d'aproximadament el 2% de les emissions globals de gasos d'efecte hivernacle, el que fa que les seves emissions siguin iguals a la indústria de l'aviació i fins i tot es projecta que la superin el 2020 [1] [2].
+El sector tecnològic és una de les indústries que té un major impacte en la crisi climàtica. Els centres de dades que alimenten les aplicacions i els llocs web que fem servir actualment són responsables d'aproximadament el 2% de les emissions globals de gasos d'efecte hivernacle, el que fa que les seves emissions siguin iguals a la indústria de l'aviació i fins i tot es projecta que la superin el 2020 [1](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025) [2](https://earther.gizmodo.com/the-planet-needs-a-new-internet-1837101745).
 
 ## A on i quand?
 
