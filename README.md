@@ -1,5 +1,7 @@
 # Open Letter to Tech Workers in Barcelona 
 
+[Castellano](#carta-abierta-a-trabajadorxs-tecnológicxs-en-barcelona) [Català](#carta-oberta-a-treballadors-tecnològics-en-barcelona)
+
 ## What is happening?
 
 We are a group of tech workers in Barcelona that want to take part in the [#GlobalClimateStrike](https://globalclimatestrike.net) between the 20th and 27th September. We want to show our support for [Fridays for Future Barcelona](https://twitter.com/f4f_barcelona) and the school strike movement. We also want to recognise the role played by the tech industry in the climate crisis and show that we are committed to finding solutions.
