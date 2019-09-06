@@ -68,7 +68,7 @@ Nos uniremos a las protestas organizadas por Fridays for Future Barcelona.
 
 ## Cómo puedo participar?
 
-- Sigue a [@TechForFutureBCN(https://twitter.com/tech4futurebcn) en Twitter para saber las novedades. 
+- Sigue a [@TechForFutureBCN](https://twitter.com/tech4futurebcn) en Twitter para saber las novedades. 
 - Inscríbete en la huelga del [27 de Septiembre](https://act.350.org/event/globalclimatestrike/18202)
 - Firma el [Compromiso climático para trabajadores tecnológicos](https://pledge.climateaction.tech/) de ClimateAction.tech 
 - Unéte a [ClimateAction.tech Slack](https://climateaction.tech/), al canal `#local-spain`.
@@ -104,7 +104,7 @@ Aquesta serà una protesta pacífica, no violenta per mostrar suport al moviment
 
 ## Com puc participar?
 
-- Sigueix a [@TechForFutureBCN]((https://twitter.com/tech4futurebcn) a Twitter per saber les novetats. 
+- Sigueix a [@TechForFutureBCN](https://twitter.com/tech4futurebcn) a Twitter per saber les novetats. 
 - Inscriu-te a la vaga del [27 de setembre](https://act.350.org/event/globalclimatestrike/18202)
 - Firma el [compromís climàtic para treballadors tecnològics](https://pledge.climateaction.tech/) de ClimateAction.tech 
 - Uneix-te a [ClimateAction.tech](https://climateaction.tech/) Slack, al canal `#local-spain`.
