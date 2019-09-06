@@ -1,6 +1,7 @@
 # Open Letter to Tech Workers in Barcelona 
 
-[Castellano](#carta-abierta-a-trabajadorxs-tecnológicxs-en-barcelona) [Català](#carta-oberta-a-treballadors-tecnològics-en-barcelona)
+En [castellano](#carta-abierta-a-trabajadorxs-tecnológicxs-en-barcelona). En [català](#carta-oberta-a-treballadors-tecnològics-en-barcelona).
+
 
 ## What is happening?
 
@@ -78,6 +79,7 @@ El sector tecnològic és una de les indústries que té un major impacte en la 
 
 ### Divendres 20 de Setembre
 
+- Ens trobarem al Parc Central de Poblenou entre les 13:00 i 15:00
 
 Si vols que ens trobem en altres llocs de Barcelona, posa't en contacte amb nosaltres.
 
