@@ -71,11 +71,11 @@ Nos uniremos a las protestas organizadas por Fridays for Future Barcelona.
 - Sigue a [@TechForFutureBCN](https://twitter.com/tech4futurebcn) en Twitter para saber las novedades. 
 - Inscríbete en la huelga del [27 de Septiembre](https://act.350.org/event/globalclimatestrike/18202)
 - Firma el [Compromiso climático para trabajadores tecnológicos](https://pledge.climateaction.tech/) de ClimateAction.tech 
-- Unéte a [ClimateAction.tech Slack](https://climateaction.tech/) al canal `#local-spain`.
+- Únete a [ClimateAction.tech Slack](https://climateaction.tech/), al canal `#local-spain`.
 
-# Carta oberta a treballadors tecnològics en Barcelona
+# Carta oberta a treballadors/es tecnològics/es en Barcelona
 
-## Qué està pasant?
+## Què està passant?
 
 Som un grup de treballadors tecnològics a Barcelona que volem participar en el [GlobalClimateStrike](https://globalclimatestrike.net) entre el 20 i el 27 de setembre. Volem mostrar el nostre suport als [Fridays for Future Barcelona](https://twitter.com/f4f_barcelona) i al moviment de vaga escolar. També volem reconèixer el paper exercit per la indústria tecnològica a la crisi climàtica i demostrar que estem compromesos a trobar solucions.
 
@@ -87,7 +87,7 @@ El sector tecnològic és una de les indústries que té un major impacte en la 
 
 ### Divendres 20 de Setembre
 
-- Ens trobarem al Parc Central de Poblenou entre les 13:00 i 15:00
+- Ens trobarem al Parc Central de Poblenou entre les 13:00h i 15:00h
 
 Si vols que ens trobem en altres llocs de Barcelona, posa't en contacte amb nosaltres.
 
@@ -95,8 +95,8 @@ Si vols que ens trobem en altres llocs de Barcelona, posa't en contacte amb nosa
 
 Ens unirem a les protestes organitzades per Fridays for Future Barcelona.
 
-- [Port Vell](https://act.350.org/event/globalclimatestrike/18202) a les 12:00
-- [Jardinets de Gràcia](https://m.facebook.com/story.php?story_fbid=492776877953307&id=394650514432611) a les 18:00
+- [Port Vell](https://act.350.org/event/globalclimatestrike/18202) a les 12:00h
+- [Jardinets de Gràcia](https://m.facebook.com/story.php?story_fbid=492776877953307&id=394650514432611) a les 18:00h
 
 ## Hi ha regles?
 
@@ -106,7 +106,7 @@ Aquesta serà una protesta pacífica, no violenta per mostrar suport al moviment
 
 - Sigueix a [@TechForFutureBCN](https://twitter.com/tech4futurebcn) a Twitter per saber les novetats. 
 - Inscriu-te a la vaga del [27 de setembre](https://act.350.org/event/globalclimatestrike/18202)
-- Firma el [compromís climàtic para treballadors tecnològics](https://pledge.climateaction.tech/) de ClimateAction.tech 
+- Firma el [compromís climàtic para treballadors/es tecnològics/es](https://pledge.climateaction.tech/) de ClimateAction.tech 
 - Uneix-te a [ClimateAction.tech](https://climateaction.tech/) Slack, al canal `#local-spain`.
 
 ### References
